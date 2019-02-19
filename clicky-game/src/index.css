@@ -1,0 +1,14 @@
+@font-face {font-family:"STARWARS";src:url("./components/Nav/fonts/STARWARS.eot") format("eot"),url("./components/Nav/fonts/STARWARS.woff") format("woff"),url("./components/Nav/fonts/STARWARS.ttf") format("truetype"),url("./components/Nav/fonts/STARWARS.svg") format("svg");font-weight:normal;font-style:normal;}
+
+
+* {
+  box-sizing: border-box;
+  font-family: 'STARWARS', cursive;
+  text-transform: uppercase;
+}
+
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}

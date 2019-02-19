@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "image": "https://pbs.twimg.com/profile_images/425029396110393344/30x20YnC.jpeg",
+    "clicked": false
+    },
+    {
+    "id": 2,
+    "image": "https://learningtotravel.com/wp-content/uploads/2015/10/darth-vader.jpg",
+    "clicked": false
+    },
+    {
+    "id": 3,
+    "image": "https://jlawrencekenny.files.wordpress.com/2011/08/clintondarthmaul1.jpg",
+    "clicked": false
+    },
+    {
+    "id": 4,
+    "image": "https://amp.businessinsider.com/images/529e230ceab8eaca7369ae60-750-563.jpg",
+    "clicked": false
+    },
+    {
+    "id": 5,
+    "image": "https://am22.akamaized.net/tms/cnt/uploads/2017/08/leiatop1-650x574.jpg",
+    "clicked": false
+    },
+    {
+    "id": 6,
+    "image": "https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/1bf9bf86-a3fa-4399-bd63-cb098eb0bc7e.jpg",
+    "clicked": false
+    },
+    {
+    "id": 7,
+    "image": "https://2static1.fjcdn.com/comments/Lando+calrissian+_745bfe86f5fdc388ee5bae2db19588eb.jpg",
+    "clicked": false
+    },
+    {
+    "id": 8,
+    "image": "http://www4.pictures.zimbio.com/mp/ATCkWtsLsoEl.jpg",
+    "clicked": false
+    },
+    {
+    "id": 9,
+    "image": "https://pngimage.net/wp-content/uploads/2018/05/anakin-face-png-6.png",
+    "clicked": false
+    },
+    {
+    "id": 10,
+    "image": "https://lumiere-a.akamaihd.net/v1/images/Qui-Gon-Jinn_d89416e8.jpeg?region=353%2C0%2C862%2C865",
+    "clicked": false
+    },
+    {
+    "id": 11,
+    "image": "https://costumewall.com/wp-content/uploads/2017/02/padme-amidala.jpg",
+    "clicked": false
+    },
+    {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/antagonisten/images/c/ca/Imperator.jpg/revision/latest?cb=20170128030114&path-prefix=de",
+    "clicked": false
+    }
+    ]

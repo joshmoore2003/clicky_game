@@ -1,0 +1,43 @@
+@font-face {font-family:"STARWARS";src:url("./fonts/STARWARS.eot") format("eot"),url("./fonts/STARWARS.woff") format("woff"),url("./fonts/STARWARS.ttf") format("truetype"),url("./fonts/STARWARS.svg") format("svg");font-weight:normal;font-style:normal;}
+
+nav {
+  width: 100%;
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: 50px;
+  background-color: black;
+  height: auto;
+  font-family: "STARWARS", cursive;
+}
+
+a {
+  color: #fed420;
+}
+
+a:hover {
+  color: #fed420;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 26px 0;
+  width: 25%;
+  /* text-align: center; */
+}
+
+ul {
+  /* padding-left: 0px; */
+  display: flex;
+  align-items: center;
+}
+
+@media only screen and (max-width: 750px) {
+  #cur-sco, #top-sco {
+    font-size: 2rem;
+  }
+}
+
+.red-text {
+  color:#8e1600;
+}
